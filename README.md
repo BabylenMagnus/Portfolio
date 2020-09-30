@@ -11,7 +11,7 @@
 * Programming -- Principles and Practice Using C++, Bjarne Stroustrup
 
 **SQL**
-* [Explain task](https://www.sql-ex.ru)
+* [Explain tasks](https://www.sql-ex.ru)
 * Learning SQL, Alan_Beaulieu
 
 **Go**
