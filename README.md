@@ -10,6 +10,10 @@
 * [Алгоритмы и структуры данных (С++)](https://youtu.be/MWsfHQaUzI0), Тимофей Хирьянов
 * Programming -- Principles and Practice Using C++, Bjarne Stroustrup
 
+**SQL**
+* [Explain task](https://www.sql-ex.ru)
+* Learning SQL, Alan_Beaulieu
+
 **Go**
 * [golang tutorial](https://golangs.org)
 
