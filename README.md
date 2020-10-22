@@ -14,9 +14,6 @@
 * [Explain tasks](https://www.sql-ex.ru)
 * Learning SQL, Alan_Beaulieu
 
-**Go**
-* [golang tutorial](https://golangs.org)
-
 ## Technologies
 
 ### Machine Learning
