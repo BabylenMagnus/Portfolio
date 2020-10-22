@@ -28,6 +28,7 @@
 
 **Practice**
 * [Base ML model](ML.ipynb)
+* [Myself grow in ML](https://github.com/EvgeniySevostyanihin/EStraine.git)
 
 ### Deep Learning
 
