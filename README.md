@@ -14,6 +14,8 @@
 * [Explain tasks](https://www.sql-ex.ru)
 * Learning SQL, Alan_Beaulieu
 
+## 
+
 ## Technologies
 
 ### Machine Learning
@@ -42,6 +44,7 @@
 * [using DeepFake](https://github.com/EvgeniySevostyanihin/using-DeepFake)
 
 **NLP**
+* [word filter](https://github.com/BabylenMagnus/dirt_tongue)  
 * [Chat Bot](https://github.com/EvgeniySevostyanihin/Chat-Bot)
 * [imdb reviews Dataset](NLP.ipynb)
 
